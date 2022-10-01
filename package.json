@@ -1,0 +1,20 @@
+{
+  "name": "bckpra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0",
+    "tools": "^0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
